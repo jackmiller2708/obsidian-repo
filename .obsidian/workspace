@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "e23c72cee214d507",
+    "type": "split",
+    "children": [
+      {
+        "id": "35b1708108eb4097",
+        "type": "leaf",
+        "dimension": 72.87705956907477,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Data Structure and Algorithm/Algorithm In General.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "ee5de0d2adfde945"
+      },
+      {
+        "id": "c9f987ea35f1428f",
+        "type": "leaf",
+        "dimension": 27.122940430925226,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Data Structure and Algorithm/Algorithm In General.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 0.7132754626224427,
+              "close": true
+            }
+          }
+        },
+        "group": "ee5de0d2adfde945"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a1a1dea5a78eff6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8325aa7136f00db4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be5cbd197c19be35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "732e39bbaef277b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#algorithm",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d96fe0d50eedf86",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2e6ba5d9648958e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "650efe5813ff1b74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca336c9a91aeb20d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data Structure and Algorithm/Algorithm In General.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afb080a434c42292",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data Structure and Algorithm/Algorithm In General.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0ee289250a6d66b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "8361c90425f156c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data Structure and Algorithm/Algorithm In General.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "35b1708108eb4097",
+  "lastOpenFiles": [
+    "Data Structure and Algorithm/Algorithms/Search Algorithms/Binary Search.md",
+    "Data Structure and Algorithm/Algorithms/Search Algorithms/Knuth-Morris-Pratt (KMP)  Algorithm.md",
+    "Data Structure and Algorithm/Algorithm In General.md",
+    "Data Structure and Algorithm/Topics/Prefix Function.md",
+    "Data Structure and Algorithm/Topics/assets/Prefix-function 1.png",
+    "Data Structure and Algorithm/Topics/assets/prefix-function.png",
+    "the partial match table.md",
+    "Data Structure and Algorithm/Algorithms/Search Algorithms/Linear Search.md",
+    "2022-12-12.md",
+    "Algorithms/KMP String Search Algorithm.md"
+  ]
+}

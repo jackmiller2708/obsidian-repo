@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "e23c72cee214d507",
+    "type": "split",
+    "children": [
+      {
+        "id": "165f00779cbad25b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "508e2682c42699a7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a1a1dea5a78eff6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8325aa7136f00db4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be5cbd197c19be35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "732e39bbaef277b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#algorithm",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d96fe0d50eedf86",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2e6ba5d9648958e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "650efe5813ff1b74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca336c9a91aeb20d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afb080a434c42292",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0ee289250a6d66b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "8361c90425f156c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "cffc969defb0859d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "508e2682c42699a7",
+  "lastOpenFiles": [
+    "Data Structure and Algorithm/Algorithm In General.md",
+    "Data Structure and Algorithm/Algorithms/Search Algorithms/Linear Search.md",
+    "Data Structure and Algorithm/Algorithms/Search Algorithms/Binary Search.md",
+    "Data Structure and Algorithm/Algorithms/Search Algorithms/Knuth-Morris-Pratt (KMP)  Algorithm.md",
+    "Data Structure and Algorithm/Topics/Prefix Function.md",
+    "Data Structure and Algorithm/Topics/assets/Prefix-function 1.png",
+    "Data Structure and Algorithm/Topics/assets/prefix-function.png",
+    "the partial match table.md",
+    "2022-12-12.md",
+    "Algorithms/KMP String Search Algorithm.md"
+  ]
+}
