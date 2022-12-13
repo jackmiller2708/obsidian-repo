@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "165f00779cbad25b",
+        "id": "4c54159dc5ef901e",
         "type": "tabs",
         "children": [
           {
-            "id": "508e2682c42699a7",
+            "id": "2971d8b7ed43b812",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data Structure and Algorithm/Topics/Concepts/Abstract Data Type (ADT).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -72,8 +76,51 @@
     "type": "split",
     "children": [
       {
+        "id": "68e02684f0cab66a",
+        "type": "tabs",
+        "dimension": 49.86449864498645,
+        "children": [
+          {
+            "id": "03e35ff2dc312f3e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Data Structure and Algorithm/Topics/Concepts/Abstract Data Type (ADT).md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8361747127958012,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "650efe5813ff1b74",
         "type": "tabs",
+        "dimension": 50.135501355013545,
         "children": [
           {
             "id": "ca336c9a91aeb20d",
@@ -81,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Structure and Algorithm/Topics/Concepts/Abstract Data Type (ADT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data Structure and Algorithm/Topics/Concepts/Abstract Data Type (ADT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data Structure and Algorithm/Topics/Concepts/Abstract Data Type (ADT).md"
+              }
             }
           },
           {
@@ -134,19 +185,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 407.5
   },
-  "active": "508e2682c42699a7",
+  "active": "cffc969defb0859d",
   "lastOpenFiles": [
-    "Data Structure and Algorithm/Algorithm In General.md",
-    "Data Structure and Algorithm/Algorithms/Search Algorithms/Linear Search.md",
-    "Data Structure and Algorithm/Algorithms/Search Algorithms/Binary Search.md",
+    "Data Structure and Algorithm/Topics/Concepts/Search Algorithm.md",
+    "Data Structure and Algorithm/Data Structures/Hash Table.md",
+    "Data Structure and Algorithm/Topics/Concepts/Abstract Data Type (ADT).md",
+    "Data Structure and Algorithm/Topics/Concepts/Algorithm In General.md",
+    "Data Structure and Algorithm/Topics/Concepts/Graph Algorithm.md",
+    "Data Structure and Algorithm/Topics/Concepts/Sorting Algorithm.md",
+    "Data Structure and Algorithm/Topics/Concepts/Data Structure In General.md",
+    "Data Structure and Algorithm/Topics/Prefix(Failure) Function.md",
     "Data Structure and Algorithm/Algorithms/Search Algorithms/Knuth-Morris-Pratt (KMP)  Algorithm.md",
-    "Data Structure and Algorithm/Topics/Prefix Function.md",
-    "Data Structure and Algorithm/Topics/assets/Prefix-function 1.png",
-    "Data Structure and Algorithm/Topics/assets/prefix-function.png",
-    "the partial match table.md",
-    "2022-12-12.md",
-    "Algorithms/KMP String Search Algorithm.md"
+    "Data Structure and Algorithm/Algorithms/Search Algorithms/Linear Search.md"
   ]
 }

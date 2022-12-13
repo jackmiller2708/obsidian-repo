@@ -1,0 +1,3 @@
+an **abstract data type (ADT)** is a mathematical model for data types. An abstract data type is defined by its behavior (semantics) from the point of view of a user, of the data, specifically in terms of possible values, possible operations, on data if this type, and the behavior of these operations. This mathematical model contrasts with [[Data Structure In General|data structures]], which are concrete representations of data, and are the point of view of an implementer, not a user.
+
+In practice, many common data types are not ADTs, as the abstraction is not perfect, and users must be a

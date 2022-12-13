@@ -1,10 +1,12 @@
 Tags: #algorithm #proper-prefix #prefix-function
+
 # Definition
-It is defined as for a string **s** of length **n**, **π[i]** is the length of the longest proper prefix of the substring **s[0…i]**, which is also a suffix of this substring where the proper prefix of a string is a prefix that is not equal to the string itself. **π[i]** is the i-th element of an n-length array **π**. By definition, **π[0]=0**; **π[i]= max**;  **k=0...i**, **k : s[0…k−1]=s[i−(k−1)…i]**, where 
-**s[0…k−1]** is the proper prefix and **s[i−(k−1)…i]** is the suffix of length k of the string s.
+It is defined as for a string **s** of length **n**, **π[i]** is the length of the longest proper prefix of the substring **s[0…i]**, which is also a suffix of this substring where the proper prefix of a string is a prefix that is not equal to the string itself. **π[i]** is the i-th element of an n-length array **π**. By definition, **π[0]=0**; **π[i]= max**;  **k=0...i**, **k : s[0…k−1]=s[i−(k−1)…i]**, where **s[0…k−1]** is the proper prefix and **s[i−(k−1)…i]** is the suffix of length **k** of the string **s**.
 
 Mathematically the definition of the prefix function can be written as follows:
 $\pi[i] = \max_ {k = 0 \dots i} \{k : s[0 \dots k-1] = s[i-(k-1) \dots i] \}$
+
+The goal of the table is to allow the algorithm not to match any character of **s** more than once. The key observation about the nature of a linear search that allows this to happen is that in having checked some segment of the main string against an _initial segment_ of the pattern, we know exactly at which places a new potential match which could continue to the current position could begin prior to the current position. In other words, we "pre-search" the pattern itself and compile a list of all possible fallback positions that bypass a maximum of hopeless characters while not sacrificing any potential matches in doing so.
 
 e.g.  For string "ababaca", prefix function array π is [0,0,1,2,3,0,1].
 

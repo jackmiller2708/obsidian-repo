@@ -4,7 +4,7 @@ The Knuth-Morris-Pratt (KMP) [[Algorithm In General |algorithm]] is a string mat
 
 The basic logic behind the KMP algorithm is as follows: 
 
-1. The algorithm begins by pre-processing the pattern to create the partial match table. This table stores the length of [[Prefix Function|the longest proper prefix of the pattern that is also a suffix of the pattern up to the given index]]. For example, if the pattern is "ABCDABD", the partial match table would be [0, 0, 0, 0, 1, 2, 0]. 
+1. The algorithm begins by pre-processing the pattern to create the partial match table. This table stores the length of [[Prefix(Failure) Function|the longest proper prefix of the pattern that is also a suffix of the pattern up to the given index]]. For example, if the pattern is "ABCDABD", the partial match table would be [0, 0, 0, 0, 1, 2, 0]. 
 2. Once the "partial match" table has been constructed, the algorithm searches for the pattern in the text by comparing the characters in the pattern and the text one by one. If the characters match, the algorithm advances to the next character in both the pattern and the text. If the characters do not match, the algorithm uses the partial match table to skip over certain characters in the text and continue the search. 
 3. When the algorithm reaches the end of the pattern, it has found a match and can return the position of the match in the text. If the algorithm reaches the end of the text without finding a match, it returns -1 to indicate that the pattern was not found.
 

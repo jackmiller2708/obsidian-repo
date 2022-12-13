@@ -1,0 +1,5 @@
+Search algorithm is an [[Algorithm In General|algorithm]] designed to solve a search problem. Search algorithms works to retrieve information stored within particular [[Data Structure In General|data structure]], or calculated in the search space of a problem domain, with either discrete or continuous values. 
+
+The appropriate search algorithm often **depends on the data structure being searched**, and may also **include prior knowledge about the data**. Search algorithms can be made faster or more efficient by specially constructed database structures, such as search trees, hash maps, and database indexes.
+
+Search algorithms can be classified based on their mechanism of searching into three types of algorithms: [[Linear Search|linear]], [[Binary Search|binary]], and [[Hash Table|hashing]].
