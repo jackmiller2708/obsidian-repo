@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structure and Algorithm/Topics/Examples/Open-Addressing Collision Resolution.md",
+                "file": "Data Structure and Algorithm/Data Structures/Hash Table.md",
                 "mode": "preview",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data Structure and Algorithm/Topics/Examples/Open-Addressing Collision Resolution.md",
+                "file": "Data Structure and Algorithm/Data Structures/Hash Table.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure and Algorithm/Topics/Examples/Open-Addressing Collision Resolution.md",
+                "file": "Data Structure and Algorithm/Data Structures/Hash Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure and Algorithm/Topics/Examples/Open-Addressing Collision Resolution.md",
+                "file": "Data Structure and Algorithm/Data Structures/Hash Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure and Algorithm/Topics/Examples/Open-Addressing Collision Resolution.md"
+                "file": "Data Structure and Algorithm/Data Structures/Hash Table.md"
               }
             }
           },
@@ -212,11 +212,11 @@
     "direction": "horizontal",
     "width": 407.5
   },
-  "active": "cffc969defb0859d",
+  "active": "6238581eaebef2fc",
   "lastOpenFiles": [
+    "Data Structure and Algorithm/Topics/Examples/Open-Addressing Collision Resolution.md",
     "Data Structure and Algorithm/Topics/Hash Collision.md",
     "Data Structure and Algorithm/Data Structures/Hash Table.md",
-    "Data Structure and Algorithm/Topics/Examples/Open-Addressing Collision Resolution.md",
     "Data Structure and Algorithm/Algorithms/Search Algorithms/Knuth-Morris-Pratt (KMP)  Algorithm.md",
     "Data Structure and Algorithm/Topics/Prefix(Failure) Function.md",
     "Data Structure and Algorithm/Topics/Concepts/Abstract Data Type (ADT).md",

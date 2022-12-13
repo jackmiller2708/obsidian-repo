@@ -10,7 +10,7 @@ There are several implementations of hash tables, including:
 
 - **Hash map**: This is a specific implementation of a hash table that uses key-value pairs to store the data, it is the basic implementation of the hash table.
 - **Chained hash table**: In this implementation, the separate chaining collision resolving is used.
-- **Open-addressed hash table**: In this implementation, the open-addressing collision resolving method is used.
+- **Open-addressed hash table**: In this implementation, the [[Open-Addressing Collision Resolution|open-addressing collision resolving method]] is used.
 
 There are trade-offs between these different implementations of hash tables. Chained hash tables can be more efficient in terms of memory usage, but they may be slower for lookup operations. Open-addressed hash tables can be faster for lookup operations, but they may require more memory and may be more susceptible to collisions.
 
