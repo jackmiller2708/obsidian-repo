@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "4c54159dc5ef901e",
+        "id": "9d4825ca0323c90a",
         "type": "tabs",
         "children": [
           {
-            "id": "2971d8b7ed43b812",
+            "id": "0f5b4adf331ae889",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structure and Algorithm/Topics/Concepts/Abstract Data Type (ADT).md",
+                "file": "Data Structure and Algorithm/Data Structures/Hash Table.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f9818ab45eb9623e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structure and Algorithm/Topics/Hash Collision.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6238581eaebef2fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structure and Algorithm/Topics/Examples/Open-Addressing Collision Resolution.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 205.5
   },
   "right": {
     "id": "2e6ba5d9648958e6",
@@ -86,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data Structure and Algorithm/Topics/Concepts/Abstract Data Type (ADT).md",
+                "file": "Data Structure and Algorithm/Topics/Examples/Open-Addressing Collision Resolution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure and Algorithm/Topics/Concepts/Abstract Data Type (ADT).md",
+                "file": "Data Structure and Algorithm/Topics/Examples/Open-Addressing Collision Resolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure and Algorithm/Topics/Concepts/Abstract Data Type (ADT).md",
+                "file": "Data Structure and Algorithm/Topics/Examples/Open-Addressing Collision Resolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure and Algorithm/Topics/Concepts/Abstract Data Type (ADT).md"
+                "file": "Data Structure and Algorithm/Topics/Examples/Open-Addressing Collision Resolution.md"
               }
             }
           },
@@ -189,15 +214,15 @@
   },
   "active": "cffc969defb0859d",
   "lastOpenFiles": [
-    "Data Structure and Algorithm/Topics/Concepts/Search Algorithm.md",
+    "Data Structure and Algorithm/Topics/Hash Collision.md",
     "Data Structure and Algorithm/Data Structures/Hash Table.md",
-    "Data Structure and Algorithm/Topics/Concepts/Abstract Data Type (ADT).md",
-    "Data Structure and Algorithm/Topics/Concepts/Algorithm In General.md",
-    "Data Structure and Algorithm/Topics/Concepts/Graph Algorithm.md",
-    "Data Structure and Algorithm/Topics/Concepts/Sorting Algorithm.md",
-    "Data Structure and Algorithm/Topics/Concepts/Data Structure In General.md",
-    "Data Structure and Algorithm/Topics/Prefix(Failure) Function.md",
+    "Data Structure and Algorithm/Topics/Examples/Open-Addressing Collision Resolution.md",
     "Data Structure and Algorithm/Algorithms/Search Algorithms/Knuth-Morris-Pratt (KMP)  Algorithm.md",
-    "Data Structure and Algorithm/Algorithms/Search Algorithms/Linear Search.md"
+    "Data Structure and Algorithm/Topics/Prefix(Failure) Function.md",
+    "Data Structure and Algorithm/Topics/Concepts/Abstract Data Type (ADT).md",
+    "Data Structure and Algorithm/Topics/Concepts/Data Structure In General.md",
+    "Data Structure and Algorithm/Topics/Concepts/Search Algorithm.md",
+    "Data Structure and Algorithm/Topics/Concepts/Algorithm In General.md",
+    "Data Structure and Algorithm/Topics/Concepts/Graph Algorithm.md"
   ]
 }
