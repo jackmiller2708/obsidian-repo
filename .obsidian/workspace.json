@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a1b2ef215792966c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data Structure and Algorithm/Data Structures/Hash Table.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure and Algorithm/Data Structures/Hash Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure and Algorithm/Data Structures/Hash Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Data Structure and Algorithm/Data Structures/Hash Table.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,10 +189,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3efee87320ffddfa",
+  "active": "be5cbd197c19be35",
   "lastOpenFiles": [
-    "Data Structure and Algorithm/Topics/Concepts/Search Algorithm.md",
     "Data Structure and Algorithm/Data Structures/Hash Table.md",
+    "Data Structure and Algorithm/Topics/Concepts/Search Algorithm.md",
     "Data Structure and Algorithm/Topics/Hash Collision.md",
     "Data Structure and Algorithm/Topics/Examples/Open-Addressing Collision Resolution.md",
     "Data Structure and Algorithm/Algorithm In General.md",
