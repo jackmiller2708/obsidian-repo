@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9d4825ca0323c90a",
+        "id": "3ac94b411727e59b",
         "type": "tabs",
         "children": [
           {
-            "id": "0f5b4adf331ae889",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structure and Algorithm/Data Structures/Hash Table.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9818ab45eb9623e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structure and Algorithm/Topics/Hash Collision.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6238581eaebef2fc",
+            "id": "3efee87320ffddfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,19 +69,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 300
   },
   "right": {
     "id": "2e6ba5d9648958e6",
     "type": "split",
     "children": [
       {
-        "id": "68e02684f0cab66a",
+        "id": "ad93beb4aa30ccd8",
         "type": "tabs",
-        "dimension": 49.86449864498645,
         "children": [
           {
-            "id": "03e35ff2dc312f3e",
+            "id": "271618226f05033d",
             "type": "leaf",
             "state": {
               "type": "localgraph",
@@ -134,7 +108,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8361747127958012,
+                  "scale": 1.4019828977761024,
                   "close": true
                 }
               }
@@ -145,7 +119,6 @@
       {
         "id": "650efe5813ff1b74",
         "type": "tabs",
-        "dimension": 50.135501355013545,
         "children": [
           {
             "id": "ca336c9a91aeb20d",
@@ -210,19 +183,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 300
   },
-  "active": "6238581eaebef2fc",
+  "active": "3efee87320ffddfa",
   "lastOpenFiles": [
-    "Data Structure and Algorithm/Topics/Examples/Open-Addressing Collision Resolution.md",
-    "Data Structure and Algorithm/Topics/Hash Collision.md",
-    "Data Structure and Algorithm/Data Structures/Hash Table.md",
-    "Data Structure and Algorithm/Algorithms/Search Algorithms/Knuth-Morris-Pratt (KMP)  Algorithm.md",
-    "Data Structure and Algorithm/Topics/Prefix(Failure) Function.md",
-    "Data Structure and Algorithm/Topics/Concepts/Abstract Data Type (ADT).md",
-    "Data Structure and Algorithm/Topics/Concepts/Data Structure In General.md",
     "Data Structure and Algorithm/Topics/Concepts/Search Algorithm.md",
-    "Data Structure and Algorithm/Topics/Concepts/Algorithm In General.md",
-    "Data Structure and Algorithm/Topics/Concepts/Graph Algorithm.md"
+    "Data Structure and Algorithm/Data Structures/Hash Table.md",
+    "Data Structure and Algorithm/Topics/Hash Collision.md",
+    "Data Structure and Algorithm/Topics/Examples/Open-Addressing Collision Resolution.md",
+    "Data Structure and Algorithm/Algorithm In General.md",
+    "Data Structure and Algorithm/Algorithms/Search Algorithms/Linear Search.md",
+    "Data Structure and Algorithm/Algorithms/Search Algorithms/Binary Search.md",
+    "Data Structure and Algorithm/Algorithms/Search Algorithms/Knuth-Morris-Pratt (KMP)  Algorithm.md",
+    "Data Structure and Algorithm/Topics/Prefix Function.md",
+    "Data Structure and Algorithm/Topics/assets/Prefix-function 1.png"
   ]
 }
