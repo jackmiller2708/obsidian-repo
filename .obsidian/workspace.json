@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "096f016706cc2941",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technologies/Web/Blazor/Lifecyle Events.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,7 +115,7 @@
       {
         "id": "68e02684f0cab66a",
         "type": "tabs",
-        "dimension": 49.86449864498645,
+        "dimension": 49.864498644986455,
         "children": [
           {
             "id": "03e35ff2dc312f3e",
@@ -111,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data Structure and Algorithm/Data Structures/Hash Table.md",
+                "file": "Technologies/Web/Blazor/Lifecyle Events.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure and Algorithm/Data Structures/Hash Table.md",
+                "file": "Technologies/Web/Blazor/Lifecyle Events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure and Algorithm/Data Structures/Hash Table.md",
+                "file": "Technologies/Web/Blazor/Lifecyle Events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure and Algorithm/Data Structures/Hash Table.md"
+                "file": "Technologies/Web/Blazor/Lifecyle Events.md"
               }
             }
           },
@@ -212,11 +224,11 @@
     "direction": "horizontal",
     "width": 407.5
   },
-  "active": "6238581eaebef2fc",
+  "active": "be5cbd197c19be35",
   "lastOpenFiles": [
+    "Data Structure and Algorithm/Data Structures/Hash Table.md",
     "Data Structure and Algorithm/Topics/Examples/Open-Addressing Collision Resolution.md",
     "Data Structure and Algorithm/Topics/Hash Collision.md",
-    "Data Structure and Algorithm/Data Structures/Hash Table.md",
     "Data Structure and Algorithm/Algorithms/Search Algorithms/Knuth-Morris-Pratt (KMP)  Algorithm.md",
     "Data Structure and Algorithm/Topics/Prefix(Failure) Function.md",
     "Data Structure and Algorithm/Topics/Concepts/Abstract Data Type (ADT).md",
