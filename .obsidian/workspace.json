@@ -26,9 +26,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "096f016706cc2941",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technologies/Web/Blazor/Lifecyle Events.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -87,6 +99,7 @@
       {
         "id": "ad93beb4aa30ccd8",
         "type": "tabs",
+        "dimension": 49.864498644986455,
         "children": [
           {
             "id": "271618226f05033d",
@@ -94,6 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Technologies/Web/Blazor/Lifecyle Events.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Technologies/Web/Blazor/Lifecyle Events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Technologies/Web/Blazor/Lifecyle Events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +187,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Technologies/Web/Blazor/Lifecyle Events.md"
+              }
             }
           },
           {
@@ -192,6 +210,12 @@
   "active": "be5cbd197c19be35",
   "lastOpenFiles": [
     "Data Structure and Algorithm/Data Structures/Hash Table.md",
+    "Data Structure and Algorithm/Topics/Examples/Open-Addressing Collision Resolution.md",
+    "Data Structure and Algorithm/Topics/Hash Collision.md",
+    "Data Structure and Algorithm/Algorithms/Search Algorithms/Knuth-Morris-Pratt (KMP)  Algorithm.md",
+    "Data Structure and Algorithm/Topics/Prefix(Failure) Function.md",
+    "Data Structure and Algorithm/Topics/Concepts/Abstract Data Type (ADT).md",
+    "Data Structure and Algorithm/Topics/Concepts/Data Structure In General.md",
     "Data Structure and Algorithm/Topics/Concepts/Search Algorithm.md",
     "Data Structure and Algorithm/Topics/Hash Collision.md",
     "Data Structure and Algorithm/Topics/Examples/Open-Addressing Collision Resolution.md",
